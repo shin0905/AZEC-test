@@ -6,4 +6,4 @@ npx expo install expo-constants
 npx expo install expo-status-bar
 npx expo install react-native-gesture-handler
 
-eact-native-screens expo-linking expo-constants expo-status-bar react-native-gesture-handler
+npx expo install expo-router react-native-safe-area-context react-native-screens expo-linking expo-constants expo-status-bar react-native-gesture-handler
